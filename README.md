@@ -620,3 +620,17 @@ never made it, and directing your AI agents.
   agent's test runs. The agent proposed to start the game with DirectX 11. Thomas decided on 2026-11-15 to
   leave everything as it is. Known risk: a start that ends in the intro on some graphics cards; starting the
   game again, or with `-dx11`, gets around it.
+
+### 2026-11-15 19:25 – Submitted
+
+- Thomas submitted Rem Phase at about 19:23, seven and a half hours before the deadline: the game page
+  `https://tmessv.itch.io/rem-phase`, the entry `https://itch.io/jam/2026-epic-ai-megajam/rate/5372698`. A person
+  filled in and sent the form; the agent drafted the texts and checked each page without signing in.
+- The entry is the Development build (Epic recommends it; built 18:23 from commit 68, 568 MB as a zip). The
+  smoke test passed its 89 checks inside the package, Thomas played it through once, and it started on a second
+  machine. Not done: a start on a machine without Unreal Engine and Visual Studio; both machines have them.
+- The agent had reported that it closed its test start of the package. It had only ended the launcher; the game
+  went on running in full screen, and that was the window Thomas then played through.
+- The first cut of the video showed a graphics driver overlay with a logo and German text in its first four
+  seconds. The agent found it in stills of the file; Thomas cut it out before uploading.
+- This dev log is public as a copy with its pictures: `https://github.com/volkmerthoms/RemPhase`.
